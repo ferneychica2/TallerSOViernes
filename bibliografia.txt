@@ -1,0 +1,3 @@
+Este es el tema Git del curso Taller SO
+El curso comenzó el 22 de enero de 2025
+Hoy estamos trabajando con repositorios
