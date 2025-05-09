@@ -1,0 +1,39 @@
+arch123.txt
+arch1.txt
+arch2.txt
+arch3.txt
+Archivo 1
+archivo1
+archivo1.txt
+archivo2
+archivo2.txt
+archivo3
+archivo4
+archivoConExtension.docx
+archivoDeVarios.txt
+archivoDeWord.docx
+ArchivoMayuscula.txt
+archivoNano
+arch.txt
+carpeta 4
+carpeta2
+carpeta3
+Descargas
+DirectorioMayuscula
+error.txt
+file1
+file2
+file3
+file4
+imagen1.jpeg
+imagen2.jpeg
+imagen3.jpeg
+imagen4.jpeg
+imagen5.jpeg
+index.html
+index.txt
+nivel 5
+nivel3
+nivel4
+prueba.txt
+Texto para adicionar
